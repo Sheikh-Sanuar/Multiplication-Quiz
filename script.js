@@ -30,4 +30,4 @@ formEl.addEventListener("submit", () => {
 function updateLocalStorage() {
 	localStorage.setItem("score", JSON.stringify(score));
 }
-23;
+
